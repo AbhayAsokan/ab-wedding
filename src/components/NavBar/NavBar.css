@@ -1,0 +1,35 @@
+.menu-toggle {
+  display: none; /* Hide by default */
+  flex-direction: column;
+  cursor: pointer;
+  margin-left: auto; /* Align to the right */
+}
+
+.menu-toggle .bar {
+  height: 3px;
+  width: 25px;
+  background-color: #333; /* Color of the bars */
+  margin: 4px 0; /* Spacing between bars */
+}
+
+/* Mobile styles */
+@media (max-width: 768px) {
+  .menu-1 {
+    display: none; /* Hide menu by default */
+    flex-direction: column; /* Stack items vertically */
+    position: absolute;
+    top: 60px; /* Adjust based on navbar height */
+    right: 0;
+    background-color: #fff; /* Background color for dropdown */
+    width: 100%; /* Full width */
+    z-index: 1000; /* Above other content */
+  }
+
+  .menu-1.open {
+    display: flex; /* Show menu when open */
+  }
+
+  .menu-toggle {
+    display: flex; /* Show toggle button on mobile */
+  }
+}

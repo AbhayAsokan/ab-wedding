@@ -1,0 +1,52 @@
+.single-team-member {
+  position: relative;
+  margin-top: 30px;
+  border: 5px solid rgba(255, 255, 255, 0.8); /* Slightly transparent white border */
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.3); /* Stronger shadow for depth */
+  border-radius: 0; /* Remove rounded corners */
+  height: 500px; /* Fixed height for the card */
+  overflow: hidden; /* Ensure contents do not overflow */
+  transition: transform 0.3s, box-shadow 0.3s; /* Smooth transition for hover effect */
+}
+
+.single-team-member:hover {
+  transform: translateY(-5px); /* Lift effect on hover */
+  box-shadow: 0 6px 30px rgba(0, 0, 0, 0.5); /* Enhanced shadow on hover */
+}
+
+.family-img {
+  height: 60%; /* Set height of image container to take up part of the card */
+  overflow: hidden; /* Hide overflow for sharp edges */
+}
+
+.family-img img {
+  width: 100%; /* Make image responsive */
+  height: auto; /* Maintain aspect ratio */
+  object-fit: cover; /* Crop image to fit without stretching */
+}
+
+.family-info {
+  padding: 15px; /* Padding inside info section */
+  height: 40%; /* Set height for info section to ensure visibility */
+}
+
+.family-info h3 {
+  margin-bottom: 10px; /* Space below heading */
+}
+
+body {
+  color: #666666;
+  font-size: 15px;
+  font-family: "Barlow", sans-serif;
+  line-height: 1.80857;
+}
+
+.map-container {
+  position: relative;
+  margin-top: 30px;
+  border: 5px solid rgba(255, 255, 255, 0.8); /* Slightly transparent white border */
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.3); /* Stronger shadow for depth */
+  border-radius: 0; /* Remove rounded corners */
+  overflow: hidden; /* Ensure contents do not overflow */
+  transition: transform 0.3s, box-shadow 0.3s; /* Smooth transition for hover effect */
+}
