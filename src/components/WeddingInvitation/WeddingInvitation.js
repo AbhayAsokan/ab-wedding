@@ -22,8 +22,7 @@ const WeddingInvitation = () => {
               <h3>Abhay Asokan</h3>
               <p>
                 <p>
-                  Abhay is a skilled software engineer with a Master’s degree in Computer Applications (MCA). He is currently working at
-                  Trenser Technologies in Technopark, where he brings passion and innovation to the tech world.
+                  Abhay is a skilled software engineer with a Master’s degree in Computer Applications (MCA).
                 </p>
               </p>
             </div>
@@ -38,8 +37,7 @@ const WeddingInvitation = () => {
             <div className="desc-bride">
               <h3>Ashika</h3>
               <p>
-                Ashika is a talented software engineer with a Master’s degree in Computer Applications (MCA). Currently making her mark at
-                Cinch in Technopark, she infuses her work with a vibrant passion for technology and a drive for innovation.
+                Ashika is a talented software engineer with a Master’s degree in Computer Applications (MCA). 
               </p>
             </div>
           </div>
