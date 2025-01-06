@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "C:/Program Files/Git/ab-wedding/static/css/main.d6060cf2.css",
-    "main.js": "C:/Program Files/Git/ab-wedding/static/js/main.b17e7ea8.js",
-    "static/js/488.daeda5b7.chunk.js": "C:/Program Files/Git/ab-wedding/static/js/488.daeda5b7.chunk.js",
-    "static/media/icomoon.svg?srf3rx": "C:/Program Files/Git/ab-wedding/static/media/icomoon.0b09e9f6cec1c38554f7.svg",
-    "static/media/img_bg_2.jpg": "C:/Program Files/Git/ab-wedding/static/media/img_bg_2.aa1ae0002fbf954e461d.jpg",
-    "static/media/gallery-1.jpg": "C:/Program Files/Git/ab-wedding/static/media/gallery-1.df2980862a3502a51f18.jpg",
-    "static/media/gallery-2.jpg": "C:/Program Files/Git/ab-wedding/static/media/gallery-2.fd84816b14c7259a09ab.jpg",
-    "static/media/gallery-5.jpg": "C:/Program Files/Git/ab-wedding/static/media/gallery-5.c2b97937a7e66894e7c2.jpg",
-    "static/media/icomoon.eot?srf3rx": "C:/Program Files/Git/ab-wedding/static/media/icomoon.3318d5fa76f37bb28773.eot",
-    "static/media/icomoon.woff?srf3rx": "C:/Program Files/Git/ab-wedding/static/media/icomoon.c32886b6db3e234b6f83.woff",
-    "static/media/icomoon.ttf?srf3rx": "C:/Program Files/Git/ab-wedding/static/media/icomoon.92a006b239d9d309cbdf.ttf",
-    "static/media/gallery-6.jpg": "C:/Program Files/Git/ab-wedding/static/media/gallery-6.917e6628ddf9fc8b6118.jpg",
-    "static/media/bride.jpg": "C:/Program Files/Git/ab-wedding/static/media/bride.28fa7a45fd3db465bd21.jpg",
-    "static/media/gallery-3.jpg": "C:/Program Files/Git/ab-wedding/static/media/gallery-3.f0dbf650a382f7001677.jpg",
-    "static/media/loader.gif": "C:/Program Files/Git/ab-wedding/static/media/loader.6e632ee354d233f4c249.gif",
-    "static/media/groom.jpg": "C:/Program Files/Git/ab-wedding/static/media/groom.0b1549e73e65e70c85c8.jpg",
-    "static/media/gallery-4.jpg": "C:/Program Files/Git/ab-wedding/static/media/gallery-4.ccbf64699174789b8df6.jpg",
-    "index.html": "C:/Program Files/Git/ab-wedding/index.html",
-    "main.d6060cf2.css.map": "C:/Program Files/Git/ab-wedding/static/css/main.d6060cf2.css.map",
-    "main.b17e7ea8.js.map": "C:/Program Files/Git/ab-wedding/static/js/main.b17e7ea8.js.map",
-    "488.daeda5b7.chunk.js.map": "C:/Program Files/Git/ab-wedding/static/js/488.daeda5b7.chunk.js.map"
+    "main.css": "/ab-wedding/static/css/main.0ee10d1f.css",
+    "main.js": "/ab-wedding/static/js/main.e1c6b1d4.js",
+    "static/js/488.daeda5b7.chunk.js": "/ab-wedding/static/js/488.daeda5b7.chunk.js",
+    "static/media/icomoon.svg?srf3rx": "/ab-wedding/static/media/icomoon.0b09e9f6cec1c38554f7.svg",
+    "static/media/img_bg_2.jpg": "/ab-wedding/static/media/img_bg_2.aa1ae0002fbf954e461d.jpg",
+    "static/media/gallery-1.jpg": "/ab-wedding/static/media/gallery-1.df2980862a3502a51f18.jpg",
+    "static/media/gallery-2.jpg": "/ab-wedding/static/media/gallery-2.fd84816b14c7259a09ab.jpg",
+    "static/media/gallery-5.jpg": "/ab-wedding/static/media/gallery-5.c2b97937a7e66894e7c2.jpg",
+    "static/media/icomoon.eot?srf3rx": "/ab-wedding/static/media/icomoon.3318d5fa76f37bb28773.eot",
+    "static/media/icomoon.woff?srf3rx": "/ab-wedding/static/media/icomoon.c32886b6db3e234b6f83.woff",
+    "static/media/icomoon.ttf?srf3rx": "/ab-wedding/static/media/icomoon.92a006b239d9d309cbdf.ttf",
+    "static/media/gallery-6.jpg": "/ab-wedding/static/media/gallery-6.917e6628ddf9fc8b6118.jpg",
+    "static/media/bride.jpg": "/ab-wedding/static/media/bride.28fa7a45fd3db465bd21.jpg",
+    "static/media/gallery-3.jpg": "/ab-wedding/static/media/gallery-3.f0dbf650a382f7001677.jpg",
+    "static/media/loader.gif": "/ab-wedding/static/media/loader.6e632ee354d233f4c249.gif",
+    "static/media/groom.jpg": "/ab-wedding/static/media/groom.0b1549e73e65e70c85c8.jpg",
+    "static/media/gallery-4.jpg": "/ab-wedding/static/media/gallery-4.ccbf64699174789b8df6.jpg",
+    "index.html": "/ab-wedding/index.html",
+    "main.0ee10d1f.css.map": "/ab-wedding/static/css/main.0ee10d1f.css.map",
+    "main.e1c6b1d4.js.map": "/ab-wedding/static/js/main.e1c6b1d4.js.map",
+    "488.daeda5b7.chunk.js.map": "/ab-wedding/static/js/488.daeda5b7.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d6060cf2.css",
-    "static/js/main.b17e7ea8.js"
+    "static/css/main.0ee10d1f.css",
+    "static/js/main.e1c6b1d4.js"
   ]
 }
